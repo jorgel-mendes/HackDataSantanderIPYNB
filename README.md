@@ -12,4 +12,4 @@ Decidimos então aproveitar essa oportunidade para criar uma solução em conjun
 
 Além de que o novo produto pode impulsionar os serviços já existentes e impactar a vida de mais empresários.
 
-Link para o notebook com os gráficos: https://nbviewer.jupyter.org/github/jorgel-mendes/HackDataSantanderIPYNB/blob/master/Hackathon_investiga%C3%A7%C3%A3o.ipynb
+Link para o notebook com os gráficos: https://nbviewer.jupyter.org/github/jorgel-mendes/Prospper_Jupyter_Notebook/blob/master/Hackathon_investiga%C3%A7%C3%A3o.ipynb
