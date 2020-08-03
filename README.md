@@ -1,12 +1,15 @@
-# HackDataSantanderIPYNB
-Hackathon Santander Jupyter Notebook
+# Notebook de entrega do grupo 41 para o Hackathon Santander Data Challenge
 
-Esse notebook mostra exploração de dados utilizados que embasou a criação do Prospper, uma solução integrada com o CoPiloto Santander que busca empoderar donos de negócio repassando informação em um formato de simples utilização.
+Esse notebook mostra exploração de dados que embasou a criação do Prospper, uma solução integrada com o CoPiloto Santander que busca empoderar donos de negócio fornecendo informação em um formato de simples utilização. 
 
-A solução foi criada para o Hackathon Data Challenge do Santander do grupo grupo 41.
+Na nossa análise de compreensão do problema utilizamos dados do IBGE recolhidos no site do [IPEA](http://www.ipeadata.gov.br/Default.aspx) e uma [API em Python](https://github.com/GeneralMills/pytrends) para o google trends.
 
-Na nossa análise de compreensão do problema utilizamos dados do IBGE recolhidos no site do IPEA e uma API em Python para o google trends, para entender as dificuldades do setor de varejo e financeiro;
+## Conclusão (spoiler alert)
 
-Nossos esforços foram direcionados para um serviço que ajude pequenas empresas a entenderem melhor seu público e, assim, ajudando-as a sobreviver. A solução foi feita em associação a um produto já existente do Banco Santander.
+O setor de crédito e financiamento para empresas está em alta e as soluções da Santander Prospera e Copiloto podem ganhar espaço e atingir mais pequenas empresas.
+
+Decidimos então aproveitar essa oportunidade para criar uma solução em conjunto com esses negócios. Seria proposto um chatbot de recomendação de tendências do setor e análise de perfil do usuário, aproveitando a alta do setor bancário e que ele já está próximo do consumidor afetado.
+
+Além de que o novo produto pode impulsionar os serviços já existentes e impactar a vida de mais empresários.
 
 Link para o notebook com os gráficos: https://nbviewer.jupyter.org/github/jorgel-mendes/HackDataSantanderIPYNB/blob/master/Hackathon_investiga%C3%A7%C3%A3o.ipynb
